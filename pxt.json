@@ -1,0 +1,22 @@
+{
+    "name": "magic8",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1",
+        "magicbit": "github:emakefun/pxt-magicbit#efa685272bd8426b18168dec5d07e4635b652846"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
